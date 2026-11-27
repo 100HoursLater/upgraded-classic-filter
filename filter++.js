@@ -9,7 +9,7 @@ const special = ["fucking cunt", "Fucking Cunt"];
 const special_2 = ["Yes", "No", "no", "yes"];
 const special_3 = ["Lucia"];
       const special_4 = ["Jason Duval"];
-      const special_5 = ["Jeffery Epstien"];
+      const special_5 = ["Jeffrey Epstein"];
 
 let userinput = "";
 
